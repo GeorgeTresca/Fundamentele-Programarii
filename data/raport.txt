@@ -1,0 +1,5 @@
+1;Lord of the Rings;foarte bun;Fantasy,Actiune;0
+63;Star Wars;foarte bun;SF,Actiune;0
+4;Need for Speed;peste medie;Actiune,Aventura;0
+40;IT;mediu;Horror;0
+11;aaaaaaaaaaa;aaaaaa;aaaaaaaa;0
